@@ -477,7 +477,7 @@
                   'thumbnail': {
                       'url': '/static/images/Avatar-2.png',
                       'width': 30,
-                      height: 30,
+                      'height': 30,
                   }
               }
           }
