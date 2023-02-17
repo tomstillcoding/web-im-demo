@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/contacts",
+    "pages/privateChat"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F3F4F7",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
