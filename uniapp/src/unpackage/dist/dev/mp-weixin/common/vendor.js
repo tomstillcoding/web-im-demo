@@ -9420,9 +9420,9 @@ internalMixin(Vue);
 
 /***/ }),
 /* 26 */
-/*!*********************************************************************************!*\
-  !*** /Users/zhaoxiangyu/Code/projects/uniapp/web-im-demo/uniapp/src/pages.json ***!
-  \*********************************************************************************/
+/*!***************************************************************!*\
+  !*** /Users/thomas/Desktop/web-im-demo/uniapp/src/pages.json ***!
+  \***************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -9563,9 +9563,9 @@ function normalizeComponent (
 
 /***/ }),
 /* 33 */
-/*!***************************************************************************************************************************!*\
-  !*** /Users/zhaoxiangyu/Code/projects/uniapp/web-im-demo/uniapp/src/uni_modules/GOEASY-IM/js_sdk/goeasy-2.6.1.esm.min.js ***!
-  \***************************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/thomas/Desktop/web-im-demo/uniapp/src/uni_modules/GOEASY-IM/js_sdk/goeasy-2.6.1.esm.min.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19908,7 +19908,7 @@ var Vo = /*#__PURE__*/function () {
   return Vo;
 }();
 exports.CSTeam = Vo;
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../../../../../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli/node_modules/webpack/buildin/global.js */ 3), __webpack_require__(/*! ./../../../../../../../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli/node_modules/node-libs-browser/mock/process.js */ 34), __webpack_require__(/*! ./../../../../../../../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli/node_modules/buffer/index.js */ 36).Buffer, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"], __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/wx.js */ 1)["default"]))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../../../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli/node_modules/webpack/buildin/global.js */ 3), __webpack_require__(/*! ./../../../../../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli/node_modules/node-libs-browser/mock/process.js */ 34), __webpack_require__(/*! ./../../../../../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli/node_modules/buffer/index.js */ 36).Buffer, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"], __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/wx.js */ 1)["default"]))
 
 /***/ }),
 /* 34 */
@@ -22805,9 +22805,9 @@ module.exports = _possibleConstructorReturn, module.exports.__esModule = true, m
 /* 52 */,
 /* 53 */,
 /* 54 */
-/*!*************************************************************************************!*\
-  !*** /Users/zhaoxiangyu/Code/projects/uniapp/web-im-demo/uniapp/src/lib/restapi.js ***!
-  \*************************************************************************************/
+/*!*******************************************************************!*\
+  !*** /Users/thomas/Desktop/web-im-demo/uniapp/src/lib/restapi.js ***!
+  \*******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -22955,9 +22955,9 @@ exports.default = _default;
 /* 61 */,
 /* 62 */,
 /* 63 */
-/*!******************************************************************************************!*\
-  !*** /Users/zhaoxiangyu/Code/projects/uniapp/web-im-demo/uniapp/src/lib/EmojiDecoder.js ***!
-  \******************************************************************************************/
+/*!************************************************************************!*\
+  !*** /Users/thomas/Desktop/web-im-demo/uniapp/src/lib/EmojiDecoder.js ***!
+  \************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23003,9 +23003,9 @@ exports.default = _default;
 
 /***/ }),
 /* 64 */
-/*!***********************************************************************************!*\
-  !*** /Users/zhaoxiangyu/Code/projects/uniapp/web-im-demo/uniapp/src/lib/utils.js ***!
-  \***********************************************************************************/
+/*!*****************************************************************!*\
+  !*** /Users/thomas/Desktop/web-im-demo/uniapp/src/lib/utils.js ***!
+  \*****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

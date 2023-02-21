@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/contacts",
-    "pages/privateChat"
+    "pages/privateChat",
+    "pages/webview/webview"
   ],
   "subPackages": [],
   "window": {

@@ -66,6 +66,7 @@
     methods: {
       privateChat (friend) {
         uni.navigateTo({
+			// url: './webview/webview?url=http://localhost:1002/chat'
           url: './privateChat?to=' + friend.id
         });
       }

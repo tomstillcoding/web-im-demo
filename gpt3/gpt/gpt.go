@@ -10,7 +10,7 @@ import (
 )
 
 const BASEURL = "https://api.openai.com/v1/"
-const ApiKey = "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"
+const ApiKey = "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"
 
 // ChatGPTResponseBody 请求体
 type ChatGPTResponseBody struct {
